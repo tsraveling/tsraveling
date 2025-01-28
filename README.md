@@ -2,6 +2,13 @@
 
 I'm **Tim Raveling**, a senior software engineer with 20 years of web and mobile experience.
 
+- 🔨 My areas of expertise:
+  - Leadership and top-level architecture and software design
+  - Full stack web development: React, Angular, Node, Express, Nest, Postgres, MySQL
+  - Cross-platform mobile development: React Native (Universal), Swift (iOS), Kotlin (Android)
+  - DevOps: nginx, AWS, GCS, bash, custom githook deployments
+  - Game Development: Godot, Unity, C++, Lua
+
 - 🔭 I’m currently working on:
   - Expanding my [Neovim config](https://github.com/tsraveling/nvim-config)
   - DevOps and learning to love the terminal
