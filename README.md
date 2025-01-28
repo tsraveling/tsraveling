@@ -2,7 +2,7 @@
 
 ## Github Stats ⚡ 
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsraveling)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsravelingtsraveling)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsraveling)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsraveling&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsraveling&show_icons=true&theme=transparent&hide_rank=true)
 <!--
