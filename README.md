@@ -2,6 +2,8 @@
 
 I'm **Tim Raveling**, a senior software engineer with 20 years of web and mobile experience.
 
+**I'm currently looking for work!** Hit me up on [LinkedIn](https://www.linkedin.com/in/tsraveling/) or [email me](mailto:tsraveling@gmail.com) if you're interested.
+
 - 🔨 My areas of expertise:
   - Leadership and top-level architecture and software design
   - Full stack web development: React, Angular, Node, Express, Nest, Postgres, MySQL
@@ -18,8 +20,6 @@ I'm **Tim Raveling**, a senior software engineer with 20 years of web and mobile
 - 💬 Ask me about:
   - My very strong opinions on open source and the future of online communities
   - Why I switched from VSCode to Vim
-
-And finally, **I'm currently looking for work!** Hit me up on [LinkedIn](https://www.linkedin.com/in/tsraveling/) or [email me](mailto:tsraveling@gmail.com) if you're interested.
 
 ## Open Source Contributions ⚡
 
