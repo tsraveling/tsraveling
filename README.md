@@ -1,15 +1,18 @@
 ## Hi there! 👋
 
+I'm **Tim Raveling**, a senior software engineer with 20 years of web and mobile experience.
+
 - 🔭 I’m currently working on:
   - Expanding my [Neovim config](https://github.com/tsraveling/nvim-config)
   - DevOps and learning to love the terminal
   - Getting a better handle on opsec and infosec
   - Love2D and Godot in my free time
+  
 - 💬 Ask me about:
   - My very strong opinions on open source and the future of online communities
   - Why I switched from VSCode to Vim
 
-And finally, **I'm currently looking for work!** Hit me up on [LinkedIn](https://www.linkedin.com/in/tsraveling/) or [email me](mailto:tsraveling@gmail.com) if you're looking for a senior software engineer with 20 years of web and mobile experience.
+And finally, **I'm currently looking for work!** Hit me up on [LinkedIn](https://www.linkedin.com/in/tsraveling/) or [email me](mailto:tsraveling@gmail.com) if you're interested.
 
 ## Open Source Contributions ⚡
 
