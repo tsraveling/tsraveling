@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-## Github Stats ⚡ <br/>
-<a href="https://github.com/tsraveling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsraveling&amp;show_icons=true&amp;theme=radical" height="160"  witdh="480" />
-</a>
-<a href="https://github.com/tsraveling">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tsraveling&theme=radical" height="160" witdh="480" />
-</a>
+## Github Stats ⚡ 
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsraveling)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
