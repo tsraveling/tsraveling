@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-## Github Stats ⚡ 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsraveling)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsraveling)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsraveling&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsraveling&show_icons=true&theme=transparent&hide_rank=true)
+## Open Source Contributions ⚡
+
+Here are the stats for my contributions to public (open source) Github repositories:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsraveling&layout=donut)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsraveling&show_icons=true&theme=transparent&hide_rank=true)
 <!--
 **tsraveling/tsraveling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
