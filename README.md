@@ -8,13 +8,15 @@ I'm **Tim Raveling**, a senior software engineer with 20 years of web and mobile
   - Leadership and top-level architecture and software design
   - Full stack web development: React, Angular, Node, Express, Nest, Postgres, MySQL
   - Cross-platform mobile development: React Native (Universal), Swift (iOS), Kotlin (Android)
+  - Command-line Tooling: C++, Node, and more recently Go
   - DevOps: nginx, AWS, GCS, bash, custom githook deployments
   - Game Development: Godot, Unity, C++, Lua
 
 - 🔭 I’m currently working on:
+  - Creating the [Skald](https://github.com/tsraveling/skald) narrative scripting language. I made the first version of the parser in Node, with CLI tools in Commander (currently available on [npm](https://www.npmjs.com/package/skald-compile)), and am currently rewriting the engine with [a number of new features in C++](https://github.com/tsraveling/skald/tree/cpp), using PEGTL, with an LSP and testing CLI tool planned in Go, and integrations for Godot via GDExtension and native C++ for SDL3, Unreal, etc.
   - Expanding my [Neovim config](https://github.com/tsraveling/nvim-config)
-  - DevOps and learning to love the terminal
-  - Getting a better handle on opsec and infosec
+  - Beginning to shift from the purely corporate world into more open-source and human-focused communities.
+  - Opsec and infosec
   - Love2D and Godot in my free time
   
 - 💬 Ask me about:
